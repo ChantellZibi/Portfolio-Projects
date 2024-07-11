@@ -1,4 +1,3 @@
-```sql
 CREATE VIEW combined_analysis_table AS
 -- This view assembles data from different tables into one to simplify analysis
 SELECT
